@@ -1,2 +1,2 @@
-# Kickstarter-analysis_W
-Assist Loise in starting a campaign for a play in Great Britian
+# An Analysis of Kickstarter Campaigns
+Assist Louise in starting a campaign for a play in Great Britian
